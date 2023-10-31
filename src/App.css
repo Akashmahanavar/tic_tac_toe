@@ -1,0 +1,18 @@
+.border-bottom {
+  border-bottom: 5px rgb(243, 106, 106) solid;
+  border-radius: 5px;
+}
+.square {
+  border: none;
+  background-color: transparent;
+  display: inline-block;
+  vertical-align: top;
+  height: 90px;
+  width: 150px;
+  text-align: center;
+  font-size: 60px;
+  cursor: pointer;
+  font-family: sans-serif;
+  transition: background 0.3s;
+  color: whitesmoke;
+}
